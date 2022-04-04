@@ -1,0 +1,31 @@
+/* File: font.css */
+@font-face {
+  font-family: 'MetaProBlk';
+  src: local('MetaProBlk'),
+    url('./assets/fonts/FFMetaProBlk.TTF') format('truetype');
+}
+@font-face {
+  font-family: 'MetaProBold';
+  src: local('MetaProBold'),
+    url('./assets/fonts/FFMetaProBold.TTF') format('truetype');
+}
+@font-face {
+  font-family: 'MetaProLight';
+  src: local('MetaProLight'),
+    url('./assets/fonts/FFMetaProLight.TTF') format('truetype');
+}
+@font-face {
+  font-family: 'MetaProMedium';
+  src: local('MetaProMedium'),
+    url('./assets/fonts/FFMetaProMedium.TTF') format('truetype');
+}
+@font-face {
+  font-family: 'MetaProRegular';
+  src: local('MetaProRegular'),
+    url('./assets/fonts/FFMetaProRegular.TTF') format('truetype');
+}
+@font-face {
+  font-family: 'MetaProThin';
+  src: local('MetaProThin'),
+    url('./assets/fonts/FFMetaProThin.TTF') format('truetype');
+}
