@@ -22,7 +22,7 @@ export interface HeaderProps {
 
 const NAV_LINKS_LIST = [
   { label: 'Home', target: routes.HOME },
-  { label: 'Explore', target: routes.RAFFLES },
+  { label: 'Raffle', target: routes.RAFFLES },
   // { label: 'Stake', target: routes.STAKE },
   { label: 'Tools', target: routes.TOOLS },
   { label: 'Admin Panel', target: routes.ADMIN.HOME, admin: true },

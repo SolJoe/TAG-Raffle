@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import { Button, Link, Tooltip } from '@material-ui/core';
 import { useHistory } from 'react-router';
-import home_img from "../../assets/images/homepage_logo.png"
+import home_img from "../../assets/images/homepage_logo_2.png"
 import discordLogo from '../../assets/discord-logo.svg';
 import twitterLogo from '../../assets/twitter-logo.svg';
 // import documentLogo from '../../assets/document-logo.svg';
@@ -31,7 +31,7 @@ const LandingScreen: FC = () => {
             <Link
               className={classes.socialLink}
               target="blank"
-              href={`https://t.co/BtbE5rb6Bk?amp=1`}
+              href={`https://discord.gg/pAKYeeBF7x`}
             >
               <img src={discordLogo} alt={'disord-logo'} width="50px" />
             </Link>
@@ -42,7 +42,7 @@ const LandingScreen: FC = () => {
             <Link
               className={classes.socialLink}
               target="blank"
-              href={`https://twitter.com/draffleluckclub`}
+              href={`https://twitter.com/TradingApesGang`}
             >
               <img src={twitterLogo} alt={'twitter-logo'} width="50px" />
             </Link>
