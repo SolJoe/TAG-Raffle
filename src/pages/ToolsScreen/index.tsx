@@ -426,58 +426,36 @@ const HowTo: FC = () => {
       {' '}
       <Accordion>
         <AccordionSummary expandIcon={<ExpandMore />}>
-          <Typography variant="h3">What does it do?</Typography>
+          <Typography variant="h3">What is this tool?</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <div className={classes.accordionContent}>
             <Typography variant="body1">
-              Sending your precious NFT to Grandma's wallet for her birthday,
-              listing an NFT on a marketplace, or spending your last few USDC on
-              one of our upcoming Raffles are all ordinary actions that leave
-              an empty account cluttering your wallet, sometimes forever... At
-              the trading apes gang, we like to keep things tidy, which is why
-              we’ve created this simple and nifty tool to help you clean these
-              up and regain{' '}
-              <span className={classes.highlightPrimary}>
-                proper wallet feng shui.
-              </span>
+              Get your SOL back! Everytime you send an NFT to a friend or list
+              an NFT to sell on a Marketplace your creating a token account.
+              Creating that account costs a little of your SOL everytime. We
+              have a solution that turns those cluttery "unknown tokens" into
+              SOL for your wallet! Use our fancy smancy tool that does the
+              switcheroo for you. Each token you have in your wallet will be
+              magically transformed into 0.00203928 sol! Maybe you find enough
+              to enter one of our Raffles!
             </Typography>
           </div>
         </AccordionDetails>
       </Accordion>
       <Accordion>
         <AccordionSummary expandIcon={<ExpandMore />}>
-          <Typography variant="h3">Why should you care?</Typography>
+          <Typography variant="h3">How does it work?</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <div className={classes.accordionContent}>
-            <ol>
-              <Typography variant="body1">
-                <li key={1}>
-                  Although it is generally obscured behind a single fee
-                  displayed to you by dApps, there is actually a cost (a.k.a
-                  "rent") to opening and keeping open each token account:{' '}
-                  {`${TOKEN_ACCOUNT_RENT_EXEMPTION_THRESHOLD}`} SOL. This sum is
-                  paid by <span style={{ fontWeight: 'bold' }}>you</span> and is
-                  locked in the account as long as it exists.{' '}
-                  <span className={classes.highlightPrimary}>
-                    Closing the accounts is the only way to get them SOL back!
-                  </span>
-                </li>
-              </Typography>
-              <Typography variant="body1">
-                <li key={2}>
-                  Wallets can get cluttered fast, especially if you regularly
-                  buy/sell NFTs. A tidy wallet can prevent mistakes.
-                </li>
-              </Typography>
-              <Typography variant="body1">
-                <li key={3}>
-                  Potential ASMR substitute if watching videos of sand being cut
-                  is not enough anymore.
-                </li>
-              </Typography>
-            </ol>
+            <Typography variant="body1">
+              The switcheroo, it's a magical trick only to be performed by the
+              most talented of glass chewers. Connect your wallet and our tool
+              will display how many token accounts are in that address, follow
+              the prompts to close those accounts and receive the rewards!
+              That's it, your SOL back to you.
+            </Typography>
           </div>
         </AccordionDetails>
       </Accordion>
