@@ -92,7 +92,7 @@ const ExploreRafflesScreen: FC = () => {
         </Grid>
       ) : (
         <Typography variant="h4" className={classes.mainContent}>
-          No dRaffles to display.
+          No Raffles to display.
         </Typography>
       )}
     </>
