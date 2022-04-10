@@ -7,23 +7,9 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
-    '3gce7612sT3pTWtAYp5xcU2fjEfEX1U7tEFHyoftbKD5',
+    '7AiszfLM9AG53RoZ3HWsBxbHwyWQ886aJm2UqSAAQbpE',
     {
-      name: 'DADBOD NFT',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    'D4iojpC3Dz7iLaGb4fxRCkLdgftBLbgMStoX9qoCucLE',
-    {
-      name: 'NFT Raffle',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    '9aDZyjaw7yJ5UEUEsT7iSg9KMkd6ixnbrzM4Ya38BagL',
-    {
-      name: 'NFT Raffle Test',
+      name: 'UndeadApes #2125',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ] 
