@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '86JqdpnZwn9qP8Qft44aD5a2onDAzDoLeM4frhjTdFAi',
+    {
+      name: 'Cheetah Coalition #1534',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     'Dmectrd4SXZq7BnyBzB22qxiFvVUb6VgDyDAvKbBeztc',
     {
       name: 'Flavor Flamez #3140',
