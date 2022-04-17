@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'HAWBikaGUWw7trXan6MJCD2yxheygLAopC3nW8dHVNr9',
+    {
+      name: 'Soul of Hidama #232',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '86JqdpnZwn9qP8Qft44aD5a2onDAzDoLeM4frhjTdFAi',
     {
       name: 'Cheetah Coalition #1534',
