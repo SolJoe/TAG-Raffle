@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '5a4VngLuzP6AV6C1ndvEcrAw2GgwZQdxdPFi8McqjjV5',
+    {
+      name: 'Solminator 237',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     'HAWBikaGUWw7trXan6MJCD2yxheygLAopC3nW8dHVNr9',
     {
       name: 'Soul of Hidama #232',
