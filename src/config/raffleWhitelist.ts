@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'H6aDpAbkfNZZZ3TkPhe8crg64MMnMh2DzxRDWcds4reb',
+    {
+      name: 'Solana Hills #1465',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '5oQqs4nheYLLYt5tv5DnmezN768fRXjFWKCWbjxkmwmB',
     {
       name: 'Serum Surfers #2956',
