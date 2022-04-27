@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'qUosZbko98T7jkd1XuG66uyhNjHHTUxVu6hq74V1tdM',
+    {
+      name: 'SMU #2199',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '41ujFNJ5QCGdkgVtGtYMne3MSv19iLR9cyHko7YJ7pJK',
     {
       name: 'Miners of Mars #2521',
