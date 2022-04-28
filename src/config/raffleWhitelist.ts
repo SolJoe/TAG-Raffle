@@ -26,6 +26,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       name: 'Solana Hills #1465',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
+  ],
+  [ 
+    '5oQqs4nheYLLYt5tv5DnmezN768fRXjFWKCWbjxkmwmB',
+    {
+      name: 'Serum Surfers #2956',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
   ]
    
 ]);
