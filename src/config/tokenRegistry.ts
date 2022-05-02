@@ -76,6 +76,24 @@ const tokenRegistry = {
     decimals: 9,
     logoURI: '/resources/samo-logo.png',
     tags: []
+  },
+  'Exz2u9EhSXzGDef4v8bfXVjcUbsFm4kMKoXxn58fDUSa': {
+    chainId: 101,
+    address: 'Exz2u9EhSXzGDef4v8bfXVjcUbsFm4kMKoXxn58fDUSa',
+    symbol: 'MCREW',
+    name: 'MCREW',
+    decimals: 9,
+    logoURI: '/resources/mcrew-logo.png',
+    tags: []
+  },
+  '9bb1MAn3DwDxwrVyKRYFdBfNfWnn4k1EeHjbLmJ1nsNx': {
+    chainId: 101,
+    address: '9bb1MAn3DwDxwrVyKRYFdBfNfWnn4k1EeHjbLmJ1nsNx',
+    symbol: 'TAG',
+    name: 'TAG',
+    decimals: 9,
+    logoURI: '/resources/tag-logo.png',
+    tags: []
   }
 };
 

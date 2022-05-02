@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '4EzCUnJvqxwEvmgbLj9b2KeWxZmNRupug8vtV3y8RoTD',
+    {
+      name: 'Dead Reject #3403',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '24GzbqMuBv4FMecWHrbP8imNS3mh6deftNazd9HUMqcG',
     {
       name: 'Lavish Lions #2422',
