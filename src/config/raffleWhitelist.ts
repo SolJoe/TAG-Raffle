@@ -6,7 +6,13 @@ import { TESTING } from './misc';
 // ]);
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
-  
+  [ 
+    'CbMBUCLkwiQUMv8M11JaP1QHRTrW7vC13SjgSNEvsuWQ',
+    {
+      name: 'Droid Capital 3 Final WL',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
   [ 
     '41ujFNJ5QCGdkgVtGtYMne3MSv19iLR9cyHko7YJ7pJK',
     {
