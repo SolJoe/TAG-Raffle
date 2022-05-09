@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '7nqfBF61QrS9gk36meXJkgZ4pXA6b2HqupitF2aRtz8M',
+    {
+      name: 'Yoked Yetis 3 WL Spots',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     'CbMBUCLkwiQUMv8M11JaP1QHRTrW7vC13SjgSNEvsuWQ',
     {
       name: 'Droid Capital 3 Final WL',
