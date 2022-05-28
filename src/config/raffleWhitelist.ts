@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'D4TE5FU2WuT7Yk3G3pSt1Mtou3Yy7RT1eJtfcwJu1Cof',
+    {
+      name: 'The Stoned Frogs #7857',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '8eSwb3SQdqvEXBdqHZQpDhabXi4j1sK7JBaG43Cymprt',
     {
       name: 'Raffle Booster GiveAway',
