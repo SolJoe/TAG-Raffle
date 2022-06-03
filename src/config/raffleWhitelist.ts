@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '5EnJfzzBUp9gyow3fXuiMj18v24keAG8w2sZSMjV6CDp',
+    {
+      name: 'Droid Capital #991',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '2xRwPRuwmfPm19uxJKuAGpVkcxADHaGJ4Nc8aQ3qw1Yy',
     {
       name: 'Noahs Ark #3270',
