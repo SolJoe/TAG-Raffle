@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'dUq8j8zofCfGD8Excn2a8MG2JDsuUGnYfnXU7k25qni',
+    {
+      name: 'Trippin Ape Tribe #9060',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '8nWmSeVi9HMXQx3LVAW2cMESVTxMDSkHkhsYxK3EMCUc',
     {
       name: 'Primate #3018',
@@ -82,14 +89,8 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       name: 'Droid Capital 3 Final WL',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
-  ],
-  [ 
-    '41ujFNJ5QCGdkgVtGtYMne3MSv19iLR9cyHko7YJ7pJK',
-    {
-      name: 'Miners of Mars #2521',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
   ]
+  
    
 ]);
 
