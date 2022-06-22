@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '8MkckjFabdoeLaDBQjjAhrJ8k1Cud3WPSxgsv3ZXsxZh',
+    {
+      name: 'Bubblegoose Baller #9006',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     'dUq8j8zofCfGD8Excn2a8MG2JDsuUGnYfnXU7k25qni',
     {
       name: 'Trippin Ape Tribe #9060',
@@ -76,13 +83,7 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ],
-  [ 
-    '7nqfBF61QrS9gk36meXJkgZ4pXA6b2HqupitF2aRtz8M',
-    {
-      name: 'Yoked Yetis 3 WL Spots',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
+  
   [ 
     'CbMBUCLkwiQUMv8M11JaP1QHRTrW7vC13SjgSNEvsuWQ',
     {
