@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '6v28SQvcMoAmwSHy5kwugWLTQWDwyBWBA8qksBiyiH4X',
+    {
+      name: 'Bohemian #1465',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '8MkckjFabdoeLaDBQjjAhrJ8k1Cud3WPSxgsv3ZXsxZh',
     {
       name: 'Bubblegoose Baller #9006',
@@ -76,13 +83,7 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ],
-  [ 
-    '8eSwb3SQdqvEXBdqHZQpDhabXi4j1sK7JBaG43Cymprt',
-    {
-      name: 'Raffle Booster GiveAway',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
+
   
   [ 
     'CbMBUCLkwiQUMv8M11JaP1QHRTrW7vC13SjgSNEvsuWQ',
