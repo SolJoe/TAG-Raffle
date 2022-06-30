@@ -7,6 +7,20 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '43WnKe1fUoGy8NeGdozKTa91Cos1bpfrRnPW4vCWUkq4',
+    {
+      name: 'Cet #4800',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
+    'AGVJkbmjY2SMenSYNqndDuTMRAaXa6q8zUS3Wh2ZBhaG',
+    {
+      name: 'Trading Ape #156',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '6v28SQvcMoAmwSHy5kwugWLTQWDwyBWBA8qksBiyiH4X',
     {
       name: 'Bohemian #1465',
@@ -69,26 +83,11 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ],
-  [ 
-    '2xRwPRuwmfPm19uxJKuAGpVkcxADHaGJ4Nc8aQ3qw1Yy',
-    {
-      name: 'Noahs Ark #3270',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
+
   [ 
     'D4TE5FU2WuT7Yk3G3pSt1Mtou3Yy7RT1eJtfcwJu1Cof',
     {
       name: 'The Stoned Frogs #7857',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-
-  
-  [ 
-    'CbMBUCLkwiQUMv8M11JaP1QHRTrW7vC13SjgSNEvsuWQ',
-    {
-      name: 'Droid Capital 3 Final WL',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ]
