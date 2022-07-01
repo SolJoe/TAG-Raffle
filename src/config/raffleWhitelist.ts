@@ -14,6 +14,13 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
     },
   ],
   [ 
+    'AgA7newd83TakpdvSvzueGRbjQqnTvE7wexC4qsayfoH',
+    {
+      name: 'TAG #75 & #180',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     'AGVJkbmjY2SMenSYNqndDuTMRAaXa6q8zUS3Wh2ZBhaG',
     {
       name: 'Trading Ape #156',
