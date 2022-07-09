@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '78sKeeoGRJxvAn1JnRHtyX2JTFerjTVEtmjj46DqfexU',
+    {
+      name: 'TAG #977 & #9',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '4TF18Re1RMrv3dW7j8SYriLmUg9D1rVqv34w5g1Lks7S',
     {
       name: 'Gothic Degens #1414',
@@ -20,13 +27,7 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ],
-  [ 
-    '9rEmfPVnRY7GYKT5W1wezNSXr2kQxQu7P77Kgp5efAo3',
-    {
-      name: 'TAG #209 & #740',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
+
   [ 
     '43WnKe1fUoGy8NeGdozKTa91Cos1bpfrRnPW4vCWUkq4',
     {
