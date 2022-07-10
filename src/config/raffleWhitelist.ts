@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '2JGioiuGb185vY9irKwHnqeaF11Uf7qtgdVy8KqWdB4V',
+    {
+      name: 'Trippin Ape Tribe #1089',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '78sKeeoGRJxvAn1JnRHtyX2JTFerjTVEtmjj46DqfexU',
     {
       name: 'TAG #977 & #9',
@@ -82,28 +89,6 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
     'H9BxJMVW7ScnH9TKhsksTirDeqSiDDSZgDE8ukk5ZAoo',
     {
       name: 'Lizard #2696',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    '7msqovNbAxgz8Jq3qQvhcxXLoVzWVJJzKqsLr2WdN4K',
-    {
-      name: 'Great Goats #8625',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    '5EnJfzzBUp9gyow3fXuiMj18v24keAG8w2sZSMjV6CDp',
-    {
-      name: 'Droid Capital #991',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-
-  [ 
-    'D4TE5FU2WuT7Yk3G3pSt1Mtou3Yy7RT1eJtfcwJu1Cof',
-    {
-      name: 'The Stoned Frogs #7857',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ]
