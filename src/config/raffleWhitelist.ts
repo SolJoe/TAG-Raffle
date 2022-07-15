@@ -7,12 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
-    '2nRfUkoc7XS1F7M6pfrtjWgrxPtzfR45AJce8RYwvLT1',
+    '87wijZwsBBo4zPqDUSPLCKFr1orgqzAVqxzGJ3PVXJ2K',
     {
-      name: 'TAG #515 & #891',
+      name: 'Jelly Rascals #5073',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ],
+
   [ 
     '2JGioiuGb185vY9irKwHnqeaF11Uf7qtgdVy8KqWdB4V',
     {
