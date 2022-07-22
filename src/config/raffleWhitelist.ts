@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'CiFsSFHzR94ffjYbir1gCDEmedPrC8k2CVFRZi4dRWsR',
+    {
+      name: 'TAG #601 & #593',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '3Ma2tJ1SMsdrA2w6bBUiNMMdDVDwdgGSyNQUTA5FV44u',
     {
       name: 'AI Degen # 174',
@@ -63,41 +70,6 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
     '6v28SQvcMoAmwSHy5kwugWLTQWDwyBWBA8qksBiyiH4X',
     {
       name: 'Bohemian #1465',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    '8MkckjFabdoeLaDBQjjAhrJ8k1Cud3WPSxgsv3ZXsxZh',
-    {
-      name: 'Bubblegoose Baller #9006',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    'dUq8j8zofCfGD8Excn2a8MG2JDsuUGnYfnXU7k25qni',
-    {
-      name: 'Trippin Ape Tribe #9060',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    '8nWmSeVi9HMXQx3LVAW2cMESVTxMDSkHkhsYxK3EMCUc',
-    {
-      name: 'Primate #3018',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    '9AEhEHzvvQf5kLhvLCALkSQEgknV8rvhRxTKmcWTa6ZK',
-    {
-      name: 'TombStoned & Skull',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    '8pUEAK1nEBvxS5oLYQFsQ3ixvqng8KG7Mf4Q6umTcURz',
-    {
-      name: 'Cubist 3061',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ]
