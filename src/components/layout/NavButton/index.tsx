@@ -27,7 +27,10 @@ const NavButton: FC<NavButtonProps> = ({
   return (
     <Button
       onClick={(event) => {
-        push(target);
+        if (target.match(/https?:\/\//i)) {
+          window.location.href = target;
+          return null;
+        } else push(target);
         if (onClick) onClick(event);
       }}
       variant="text"
