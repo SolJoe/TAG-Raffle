@@ -22,6 +22,7 @@ export interface HeaderProps {
 
 const NAV_LINKS_LIST = [
   { label: 'Home', target: routes.HOME },
+  { label: 'CoinFlip', target: routes.COIN_FLIP },
   { label: 'Raffle', target: routes.RAFFLES },
   // { label: 'Stake', target: routes.STAKE },
   { label: 'Tools', target: routes.TOOLS },

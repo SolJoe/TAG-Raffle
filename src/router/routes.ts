@@ -7,6 +7,7 @@ const adminRoutes = {
 
 const routes = {
   HOME: '/',
+  COIN_FLIP: 'https://tag-coinflip.vercel.app',
   RAFFLES: '/raffles',
   STAKE: '/stake',
   TOOLS: '/tools',
