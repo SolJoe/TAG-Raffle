@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'ES144xt97vciaDrXVZU3SffvEBRBKqU7h8bg6wSbCgYB',
+    {
+      name: 'TFF #5570',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '5MGY4NU543ysQvfigumXAWuZQUqK6B1mett4i91oM62q',
     {
       name: 'Degen Fat Cat #16313',
