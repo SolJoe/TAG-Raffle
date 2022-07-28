@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '3tCHDtHFapaJrTapKqEWH5m9oDddTkLVugUpUkewnLG5',
+    {
+      name: 'DOJO DEGEN #1441',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     'ES144xt97vciaDrXVZU3SffvEBRBKqU7h8bg6wSbCgYB',
     {
       name: 'TFF #5570',
@@ -62,21 +69,6 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
     '4TF18Re1RMrv3dW7j8SYriLmUg9D1rVqv34w5g1Lks7S',
     {
       name: 'Gothic Degens #1414',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-  [ 
-    'AKoPujv5yAfJqTeMdMeiiNYPYnXFEUeb1bVCeu3xkPKB',
-    {
-      name: 'Primate #5941',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
-
-  [ 
-    '43WnKe1fUoGy8NeGdozKTa91Cos1bpfrRnPW4vCWUkq4',
-    {
-      name: 'Cet #4800',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ]
