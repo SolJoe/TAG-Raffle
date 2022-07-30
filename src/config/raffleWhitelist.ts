@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'BRERSCPtU3wYPB8QJW8eKP43E2YTtFSomv4yfepxfJfc',
+    {
+      name: 'TAG #114 & #730',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '3tCHDtHFapaJrTapKqEWH5m9oDddTkLVugUpUkewnLG5',
     {
       name: 'DOJO DEGEN #1441',
@@ -42,13 +49,7 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ],
-  [ 
-    'CfMwgxhQ8P6bhNhWYT82z8hgyDQqTnKRP1VzR9puWkeU',
-    {
-      name: 'Liberty Square #3802 & #5782',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
+
   [ 
     '87wijZwsBBo4zPqDUSPLCKFr1orgqzAVqxzGJ3PVXJ2K',
     {
