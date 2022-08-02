@@ -7,9 +7,9 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
-    'BRERSCPtU3wYPB8QJW8eKP43E2YTtFSomv4yfepxfJfc',
+    '9avVqTBBXqARDQs87EhKiVA42epxXxo8D12Pq5dbBRhY',
     {
-      name: 'TAG #114 & #730',
+      name: 'TAG #665 & #185',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ],
