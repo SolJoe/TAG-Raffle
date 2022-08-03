@@ -94,6 +94,15 @@ const tokenRegistry = {
     decimals: 9,
     logoURI: '/resources/tag-logo.png',
     tags: []
+  },
+  'GkywroLpkvYQc5dmFfd2RchVYycXZdaA5Uzix42iJdNo': {
+    chainId: 101,
+    address: 'GkywroLpkvYQc5dmFfd2RchVYycXZdaA5Uzix42iJdNo',
+    symbol: 'DROID',
+    name: 'DROID',
+    decimals: 9,
+    logoURI: '/resources/droid-logo.png',
+    tags: []
   }
 };
 
