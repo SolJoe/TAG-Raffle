@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    '3Aaug4f6YGxNQbph4792pN9sg7SuThfnesgx3ydpSSwX',
+    {
+      name: 'Ledger Wallet',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     '9avVqTBBXqARDQs87EhKiVA42epxXxo8D12Pq5dbBRhY',
     {
       name: 'TAG #665 & #185',
@@ -62,14 +69,6 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
     '2JGioiuGb185vY9irKwHnqeaF11Uf7qtgdVy8KqWdB4V',
     {
       name: 'Trippin Ape Tribe #1089',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
- 
-  [ 
-    '4TF18Re1RMrv3dW7j8SYriLmUg9D1rVqv34w5g1Lks7S',
-    {
-      name: 'Gothic Degens #1414',
       // overviewImageUri: '/resources/001-mainnet-launch.gif',
     },
   ]
