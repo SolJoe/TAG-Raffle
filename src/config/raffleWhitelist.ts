@@ -7,6 +7,13 @@ import { TESTING } from './misc';
 
 const prodWhitelist = new Map<string, RaffleMetaData>([
   [ 
+    'fqsirBxRobSbs26CfkqtgUfDj1aBikNqPmcLo3aiFN5',
+    {
+      name: 'AIdegens #778',
+      // overviewImageUri: '/resources/001-mainnet-launch.gif',
+    },
+  ],
+  [ 
     'DVYVXniewvn6e1TUHVM9R8zAbi1th7Zagdujf9F2dcUc',
     {
       name: 'Just Ape #9280',
@@ -56,13 +63,6 @@ const prodWhitelist = new Map<string, RaffleMetaData>([
     },
   ],
  
-  [ 
-    '3Ma2tJ1SMsdrA2w6bBUiNMMdDVDwdgGSyNQUTA5FV44u',
-    {
-      name: 'AI Degen # 174',
-      // overviewImageUri: '/resources/001-mainnet-launch.gif',
-    },
-  ],
 
   [ 
     '87wijZwsBBo4zPqDUSPLCKFr1orgqzAVqxzGJ3PVXJ2K',
